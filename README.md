@@ -1,4 +1,4 @@
-# 2DAM (semi) 2023 DIN: grocery-list-app
+# 2DAM (semi) 2024 DIN: grocery-list-app
 
 Aplicación de ejemplo para gestionar una lista de la compra.
 
